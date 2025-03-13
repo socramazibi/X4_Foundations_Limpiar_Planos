@@ -6,3 +6,8 @@ Carpeta Entrada donde se colocan los archivos y en la carpeta Salida saldran los
 
 ![imagen](https://github.com/user-attachments/assets/18fc4716-146d-467b-bb08-a9f6649e24ee)
 
+
+
+
+
+https://forum.egosoft.com/viewtopic.php?p=5271592#p5271592
