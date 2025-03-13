@@ -1,4 +1,7 @@
 # X4_Foundations_Limpiar_Planos
+
+Creado con ChatGPT
+
 X4 Foundations Limpiar Planos, los planos los limpia y los deja sin torretas y escudos y creo que son compatibles con el mod VRO.
 
 Carpeta Entrada donde se colocan los archivos y en la carpeta Salida saldran los archivos limpios.
